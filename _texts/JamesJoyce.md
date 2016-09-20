@@ -2,6 +2,7 @@
 Layout: narrative
 Title: A Portrait of the Artist as a Young Man
 Author: James Joyce
+Publication-date: 1982
 Source: "Joyce, James. A Portrait of the Artist as a Young Man. New York: Viking, 1982"
 ---
 # A Portrait of the Artist as a Young Man
