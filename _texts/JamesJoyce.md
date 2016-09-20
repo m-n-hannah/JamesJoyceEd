@@ -5,7 +5,6 @@ Author: James Joyce
 Publication-date: 1914
 Source: "Joyce, James. A Portrait of the Artist as a Young Man. New York: Viking, 1982"
 ---
-# A Portrait of the Artist as a Young Man
 J
 vhere Betty Byr'ne lived: she sold lemon platt.
 0, the wild rose blossoms 0n the little green place.
